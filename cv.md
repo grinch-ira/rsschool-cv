@@ -19,4 +19,4 @@ var isAnagram = function(test, original) {
   ```
 1. **work experience:** *performing laboratory tasks at the university*
 1. **education:** *I am a student of the last year of the bntu*
-1. **English**: *beginner level*
+1. **English**: *beginner level.*
