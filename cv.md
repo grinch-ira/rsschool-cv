@@ -1,6 +1,6 @@
 1. **name**: *Hryniuk Iryna*
 1. **contact information:** *mobile phone* ***+375259260633***, *email:* ***grinch.ira@gmail.com***
-1. **information about yourself:** I am a student of the last year of the bntu, diligent, always striving to learn something new, purposeful
+1. **information about yourself:** *I am a student of the last year of the bntu, diligent, always striving to learn something new, purposeful.*
 1. **skills:** *basic knowledge of python, django framework, c++, mssql*
 1. **code examples:** 
  ```
