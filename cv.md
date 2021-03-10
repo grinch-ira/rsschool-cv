@@ -1,3 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="https://sun9-56.userapi.com/impg/7gxrp9S0r-thsG80UcoWpMeFK6gB5HJdVTu5dQ/oz_-AV_cy5M.jpg?size=1200x1600&quality=96&sign=0d998c3720f1fba6db8666b069dc4a09&type=album" alt="Avatar">
+    <h1 class="hello-world">Hello, world!</h1>
+  </body>
+</html>
+
+
 1. **name**: *Hryniuk Iryna*
 1. **contact information:** *mobile phone* ***+375259260633***, *email:* ***grinch.ira@gmail.com***
 1. **information about yourself:** *I am a student of the last year of the bntu, diligent, always striving to learn something new, purposeful.*
