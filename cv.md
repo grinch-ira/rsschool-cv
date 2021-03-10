@@ -4,7 +4,7 @@
     
   </head>
   <body>
-    <img src="rsschool-cv/rsschool-cv-html/photo_2021-03-10_09-18-47.jpg" alt="Avatar">
+    <img src="photo_2021-03-10_09-18-47.jpg" alt="Avatar">
     
   </body>
 </html>
