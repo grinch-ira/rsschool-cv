@@ -1,7 +1,13 @@
-
-<head>
-<link rel = "import" href = "index.html">
-</head>
+<!doctype html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="rsschool-cv/rsschool-cv-html/photo_2021-03-10_09-18-47.jpg" alt="Avatar">
+    
+  </body>
+</html>
 
 1. **name**: *Hryniuk Iryna*
 1. **contact information:** *mobile phone* ***+375259260633***, *email:* ***grinch.ira@gmail.com***
