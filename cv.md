@@ -1,5 +1,7 @@
 
-
+<head>
+<link rel = "import" href = "index.html">
+</head>
 
 1. **name**: *Hryniuk Iryna*
 1. **contact information:** *mobile phone* ***+375259260633***, *email:* ***grinch.ira@gmail.com***
