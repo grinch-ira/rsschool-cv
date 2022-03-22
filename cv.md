@@ -40,4 +40,4 @@ return result;
 
 ## Courses
 * Front-End development with SAPUI5 framework
-![Sertificate](../rsschool-cv/assets/Hryniuk.PNG)
+![Sertificate](assets/Hryniuk.PNG)
